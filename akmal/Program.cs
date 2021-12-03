@@ -4,7 +4,7 @@ namespace hello
 {
     class program
     {
-        static int add(int x) //method with parameter.wewqewwwqewqsdsadhjsgdjasgds
+        static int add(int x) //method with parameter.wewq
         {
             return 10 + x;
 
